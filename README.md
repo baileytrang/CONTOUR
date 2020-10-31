@@ -1,4 +1,4 @@
-# CONTOUR
+## CONTOUR: Penalty and Spotlight Mask for Abstractive Summarization
 
 - **Authors**: Trang-Phuong N. Nguyen and Nhi-Thao Tran
 - **Submitted** [ACIIDS 2021](aciids.pwr.edu.pl/2021)
