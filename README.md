@@ -38,10 +38,10 @@ We examined CONTOUR on multiple types of datasets and languages, which are:
 **Citations**
 ```
 @inproceedings{trangphuong-etal-2020-contour,
-author = {Trang-Phuong, N. Nguyen and Nhi-Thao, Tran},
-year = {2020},
-month = {10},
-title = {CONTOUR: Penalty and Spotlight Mask for Abstractive Summarization},
-publisher = "Submitted Asian Conference on Intelligent Information and Database Systems",
+  author = {Trang-Phuong, N. Nguyen and Nhi-Thao, Tran},
+  year = {2020},
+  month = {10},
+  title = {CONTOUR: Penalty and Spotlight Mask for Abstractive Summarization},
+  publisher = "Submitted Asian Conference on Intelligent Information and Database Systems",
 }
 ```
