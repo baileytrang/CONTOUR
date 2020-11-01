@@ -1,9 +1,9 @@
 ## CONTOUR: Penalty and Spotlight Mask for Abstractive Summarization
 
 - **Authors**: Trang-Phuong N. Nguyen and Nhi-Thao Tran
-- **Submitted** [ACIIDS 2021](aciids.pwr.edu.pl/2021)
+- **Submitted** [ACIIDS 2021](https://aciids.pwr.edu.pl/2021)
 
-The main purpose of **CONTOUR** is to emphasize the most related word containing the important information at each specific time by producing distinctive contours of the word’s potential. In contrast to baselines, which are [Pointer Generator Network](www.aclweb.org/anthology/P17-1099/) and [SELECTOR](www.aclweb.org/anthology/D19-1308/), we aim to take advantage of the last predicted word to the input words’ significance. 
+The main purpose of **CONTOUR** is to emphasize the most related word containing the important information at each specific time by producing distinctive contours of the word’s potential. In contrast to baselines, which are [Pointer Generator Network](https://www.aclweb.org/anthology/P17-1099/) and [SELECTOR](https://www.aclweb.org/anthology/D19-1308/), we aim to take advantage of the last predicted word to the input words’ significance. 
 
 The proposed Contour is an association of two independent sub-methods: **Penalty** and **Spotlight**.
 - **Penalty** is the updated version of Selector that improves the focus areas generation and optimizes the inference time. 
