@@ -16,8 +16,8 @@ The proposed Contour is an association of two independent sub-methods: **Penalty
 
 ## Datasets
 We examined CONTOUR on multiple types of datasets and languages, which are:
-- Large-scale [CNN/DailyMail](github.com/abisee/cnn-dailymail) for English
-- Medium-scale [VNTC-Abs](github.com/trangnnp/VNTC-Abs) for Vietnamese
+- Large-scale [CNN/DailyMail](https://github.com/abisee/cnn-dailymail) for English
+- Medium-scale [VNTC-Abs](https://github.com/trangnnp/VNTC-Abs) for Vietnamese
 - Small-scale [Livedoor News Corpus](www.kaggle.com/vochicong/livedoor-news) for Japanese
 
 ## Result
