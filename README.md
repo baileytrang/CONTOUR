@@ -31,7 +31,7 @@ We examined CONTOUR on multiple types of datasets and languages, which are:
 
 1. Check the `data_util/config.py`, fill your path to store or load models
 2. Prepare the dataset by converting it to chunked bin files by the `make_data_files.py`
-3. **Train**: `python3 train.py`
+3. **Train**: `python3 train.py --model_name="model_name"`
 4. **Evaluate**: `python3 eval.py --task=validate --model_name="model_name" --start_from=checkpoint.tar `
 5. **Test**: `python3 eval.py --task=test --model_name="model_name" --load_model=checkpoint.tar `
 
